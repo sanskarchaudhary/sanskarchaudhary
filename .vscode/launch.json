@@ -1,0 +1,13 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "C/C++ Runner: Debug Session",
+      "type": "lldb",
+      "request": "launch",
+      "args": [],
+      "cwd": "/Users/sanskar/Desktop/coding/vscode",
+      "program": "/Users/sanskar/Desktop/coding/vscode/build/Debug/outDebug"
+    }
+  ]
+}

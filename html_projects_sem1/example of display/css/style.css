@@ -1,0 +1,43 @@
+.div1 {
+    background-color: red;
+    color: green;
+    width: 150px;
+    height: 150px;
+    border: 11px solid green;
+    border-top-left-radius: 100px;
+    border-bottom-right-radius: 100px;
+    display: inline-block;
+}
+
+.div2 {
+    background-color: red;
+    color: green;
+    width: 150px;
+    height: 150px;
+    border: 11px solid green;
+    border-top-right-radius: 100px;
+    border-bottom-left-radius: 100px;
+    display: inline-block;
+}
+
+.div4 {
+    background-color: red;
+    color: green;
+    width: 150px;
+    height: 150px;
+    border: 11px solid green;
+    border-top-left-radius: 100px;
+    border-bottom-right-radius: 100px;
+    display: inline-block;
+}
+
+.div3 {
+    background-color: red;
+    color: green;
+    width: 150px;
+    height: 150px;
+    border: 11px solid green;
+    border-top-right-radius: 100px;
+    border-bottom-left-radius: 100px;
+    display: inline-block;
+}

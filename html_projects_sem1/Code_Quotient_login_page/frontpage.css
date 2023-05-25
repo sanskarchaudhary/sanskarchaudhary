@@ -1,0 +1,92 @@
+#first-p{
+    text-align: center;
+    color: rgb(224, 97, 38);
+    font-size: 30px;
+    margin-top: 30px;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+#main{
+    display: flex;
+    justify-content: center;
+    margin-top: 80px;
+    margin-bottom: 80px;
+    position: relative;
+}
+
+#main-box{
+    width: 500px;
+    border: 1px solid rgb(240, 230, 230);
+    height: 350px;
+    border-radius: 5px;
+}
+
+p{
+    text-align: center;
+    font-size: 25px;
+}
+
+.form-design{
+    height: 30px;
+    background-color: rgb(213, 213, 231);
+    width: 450px;
+    margin: 10px 10px;
+    border: 0;
+}
+
+.form-design:hover{
+    border: 1px solid red;
+}
+
+a{
+    font-size: 15px;
+    color: rgb(224, 97, 38);
+}
+
+#loginform{
+    margin: 20px;
+}
+
+#below{
+    margin-top: 25px;
+    display: flex;
+    justify-content: center;
+    direction: column;
+}
+
+#button{
+    margin-top: 25px;
+    text-align: center;
+}
+
+#inside-button{
+    background-color: rgb(224, 97, 38);
+    font-size: 15px;
+    border: none;
+    width: 120px;
+    border-radius: 3px;
+    color: white;
+    padding: 10px;
+}
+
+#inside-button:hover{
+    background-color: rgb(123, 47, 13);
+    cursor: pointer;
+}
+
+#line{
+    box-shadow: 100px black;
+}
+
+#radio-design{
+    margin-left: 5px;
+    margin-top: 10px;
+}
+#radio-design, span{
+    font-weight: 900;
+    font-size: 16px;
+}
+
+
+
+
