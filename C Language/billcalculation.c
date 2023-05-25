@@ -27,6 +27,6 @@ int main()
     total  = amount + percentage;
 
     printf("Electricity Bill = Rs. %.2f", total);
-
+//mailme if needed
     return 0;
 }
