@@ -29,5 +29,6 @@ int main()
     printf("Electricity Bill = Rs. %.2f", total);
 //mailme if needed
 //nsjndicjnwencowj
+//vdsgjhkvbsknvkandc
     return 0;
 }
