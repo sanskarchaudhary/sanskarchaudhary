@@ -1,0 +1,10 @@
+{
+    "name":"json",
+    "age":21;
+    "rollno":221;
+},
+{
+    "name":"jjjjjj",
+    "age":24;
+    "rollno":112;
+}

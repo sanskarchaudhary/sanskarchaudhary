@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/html_projects_sem1/Resume" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/linux/EggShell-RAT" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/linux/TheFatRat" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/linux/routersploit" vcs="Git" />
+  </component>
+</project>

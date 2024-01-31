@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="lazagne_macos">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/linux/EggShell-RAT/src/resources/lazagne_macos.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

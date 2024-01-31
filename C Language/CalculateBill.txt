@@ -1,0 +1,57 @@
+function calculateBill(bill) {
+  let totalBillAmount = 0;
+  let billItems = [];
+  let itemprice=0
+  let str ='';
+  bill.billItems.forEach((v)=>{
+    
+    menu.forEach((val)=>{
+           if(v.id === val.id)
+            {
+               itemprice = val.rate*v.quantity; 
+                
+               if(v.discount.isInPercent)
+               {
+                       itemprice= itemprice-(itemprice*v.discount.rate/100);
+                 
+               }  
+               else
+               {
+                      itemprice = itemprice- v.discount.rate
+               }
+                
+              val.taxes.forEach((value)=>{
+                if(value.isInPercent)
+                {
+                    itemprice=itemprice + (itemprice*value.rate/100)
+                  
+                }
+                else
+                {
+                   itemprice= itemprice +value.rate
+                  
+                }
+              }
+                                
+              totalBillAmount+=itemprice;      
+                
+                
+                
+              })
+              
+              
+              
+              
+              
+            }
+  }) 
+    
+    
+    
+  })
+  
+  
+  
+  
+  return [totalBillAmount, billItems];
+}

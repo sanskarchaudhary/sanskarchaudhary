@@ -1,0 +1,9 @@
+
+  767  git init
+  768  git commit -m "first commit"
+  769  git branch -M main
+  770  git remote add origin https://github.com/sanskarchaudhary/vscode.git
+  771  git push -u origin main\n
+  772  git push\n
+  773  git add .
+  774  git commit -m "first commit"

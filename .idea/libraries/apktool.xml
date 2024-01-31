@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="apktool">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/linux/TheFatRat/tools/apktool/apktool.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="android-sdk">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/linux/TheFatRat/tools/android-sdk/jill.jar!/" />
+      <root url="jar://$PROJECT_DIR$/linux/TheFatRat/tools/android-sdk/jack-coverage-plugin.jar!/" />
+      <root url="jar://$PROJECT_DIR$/linux/TheFatRat/tools/android-sdk/jack-jacoco-reporter.jar!/" />
+      <root url="jar://$PROJECT_DIR$/linux/TheFatRat/tools/android-sdk/core-lambda-stubs.jar!/" />
+      <root url="jar://$PROJECT_DIR$/linux/TheFatRat/tools/android-sdk/jack.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

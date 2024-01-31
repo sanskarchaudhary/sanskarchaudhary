@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="baksmali">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/linux/TheFatRat/tools/baksmali233/baksmali.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

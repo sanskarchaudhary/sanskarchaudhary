@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="lib">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/linux/TheFatRat/tools/android-sdk/renderscript/lib/androidx-rs.jar!/" />
+      <root url="jar://$PROJECT_DIR$/linux/TheFatRat/tools/android-sdk/renderscript/lib/renderscript-v8.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

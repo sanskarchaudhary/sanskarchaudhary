@@ -6,8 +6,8 @@
       "type": "lldb",
       "request": "launch",
       "args": [],
-      "cwd": "/Users/sanskar/Desktop/coding/vscode",
-      "program": "/Users/sanskar/Desktop/coding/vscode/build/Debug/outDebug"
+      "cwd": "/Users/sanskar/Developer/vscode/c++",
+      "program": "/Users/sanskar/Developer/vscode/c++/build/Debug/outDebug"
     }
   ]
 }

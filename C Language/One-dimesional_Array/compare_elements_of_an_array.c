@@ -12,6 +12,7 @@ int check(int arr[]) {
     }
   return 1;
 }
+//starting the cord 
 int main()
 {
   int arr[10];
