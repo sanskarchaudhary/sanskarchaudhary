@@ -175,3 +175,39 @@ getData(display);
 //       })
 //     }
 // })
+
+
+
+// Import the Firebase SDK
+const firebase = require('firebase/app');
+require('firebase/firestore');
+
+// Initialize Firebase with your configuration
+const config = {
+    apiKey: "AIzaSyBTjQzwQw_eBzDmsNTsf-pHBiC890_aC24",
+    authDomain: "online-shopping-app-2aa6f.firebaseapp.com",
+    projectId: "online-shopping-app-2aa6f",
+    storageBucket: "online-shopping-app-2aa6f.appspot.com",
+    messagingSenderId: "your-messaging-sender-id",
+    appId: "182604531551"
+};
+
+firebase.initializeApp(config);
+
+// Create a reference to your Firestore collection or document
+const firestore = firebase.firestore();
+const docRef = firestore.doc('users/user1');
+
+// Read data from Firestore
+docRef.get()
+    .then(doc => {
+        if (doc.exists) {
+            const data = doc.data();
+            console.log(data);
+        } else {
+            console.log("No such document!");
+        }
+    })
+    .catch(error => {
+        console.error("Error getting document:", error);
+    });
