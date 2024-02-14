@@ -1,7 +1,10 @@
-#include<iostream>
+// Copyright 2022 Sanskar
+#include<iostream>  // NOLINT
 #include<cstdio>
 #include<cmath>
-using namespace std;
+using std::cout;
+using std::cin;
+using std::endl;
 /******************************************************************************
 
  * 							shallow copy
@@ -191,3 +194,30 @@ int loopInList(Node *head)
 	return 0;
 }
 */
+int loopInList(Node *head)
+{
+	// Write your code here
+	if (!head || !head->next)
+	{
+		return 0;
+	}
+	Node *slow = head;
+	Node *fast = head;
+	while (fast && fast->next)
+	{
+		slow = slow->next;
+		fast = fast->next->next;
+		if (slow == fast)
+		{
+			int count = 1;
+			Node *temp = slow->next;
+			while (temp != slow)
+			{
+				temp = temp->next;
+				count++;
+			}
+			return count;
+		}
+	}
+	return 0;
+}
