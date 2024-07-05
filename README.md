@@ -1,4 +1,4 @@
-<div align="center"> <img src="https://github.com/iamnkr67/iamnkr67/blob/main/github-header-image.png"> </div>
+<div align="center"> <img src="https://github.com/sanskarchaudhary/sanskarchaudhary/blob/main/github-header-image.png"> </div>
 <h3 align="center">Android Developer | Full Stack Web Developer</h3>
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 
