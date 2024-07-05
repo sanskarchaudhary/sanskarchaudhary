@@ -10,7 +10,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/sanskarchaudhary](https://github.com/sanskarchaudhary)
 
-- 📫 How to reach me **sansakarchaudhary@gmail.com**
+- 📫 How to reach me **sanskarc55@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
