@@ -55,8 +55,6 @@
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sanskarchaudhary&theme=dark&hide_border=false&include_all_commits=true&count_private=true" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sanskarchaudhary&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" height="150" alt="languages graph"  />
 </div>
 <br>
 <div align="center">
@@ -65,7 +63,6 @@
 
 ### 🏆 Achievements
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=sanskarchaudhary&theme=gruvbox&no-frame=false&no-bg=true&margin-w=4" alt="trophy" />
 </div>
 
 <div align="center">
@@ -84,7 +81,6 @@
 
 <br>
 
-![Visits](https://visitcount.itsvg.in/api?id=sanskarchaudhary&icon=2&color=2)
 
 <a href="https://buymeacoffee.com/sanskarchaudhary">
   <img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" alt="Buy Me A Coffee" />
